@@ -1,0 +1,24 @@
+body {
+    width: 100%;
+}
+.card-body {
+    width: 100%;
+    padding-right: 30%;
+    padding-left: 30%;
+}
+.card-image {
+    height: 250px;
+    width: 500px;
+}
+.card-title {
+    font-weight: bold;
+    font-size: 20px;
+}
+.card-user {
+    font-size: 14px;
+    margin: 0px;
+}
+.card-detail {
+    padding: 0px;
+    font-size: 12px;
+}
