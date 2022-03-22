@@ -1,0 +1,50 @@
+header {
+    width: 100%;
+    background-color: #ffffff;
+    height: 50px;
+    margin: 0px;
+}
+
+body {
+    background-color: #C4C4C4;
+    height: 500px;
+    margin: 0px;
+}
+
+main {
+    padding: 20px;
+}
+
+footer {
+    width: 100%;
+    background-color: #ffffff;
+    height: 50px;
+    margin: 0px;
+    position: absolute;
+    bottom: 0;
+}
+
+.video-thumbnail {
+    height: 100px;
+    width: 95%;
+}
+
+.card__title {
+    font-weight: bold;
+    margin: 0px;
+    font-size: 16px;
+}
+.video-detail-block {
+    padding: 5px;
+    background-color: #ffffff;
+    width: 15%;
+}
+.video-created-user {
+    color: #696969;
+    font-size: 12px;
+}
+
+.video-meta-info {
+    color: #696969;
+    font-size: 12px;
+}
